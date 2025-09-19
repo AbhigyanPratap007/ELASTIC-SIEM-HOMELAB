@@ -35,11 +35,7 @@ By recreating attacker behavior in a controlled lab, the project demonstrates **
 
 3. **Brute-Force Authentication**  
    - Alerted on repeated login failures followed by a successful logon.  
-   - **MITRE ATT&CK:** T1110 — Brute Force  
-
-4. **Correlation Rule — Privilege Escalation Attempt**  
-   - Linked multiple failed logons with subsequent privileged logon events.  
-   - Helped distinguish between random noise and real escalation attempts.  
+   - **MITRE ATT&CK:** T1110 — Brute Force   
 
 ---
 
