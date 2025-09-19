@@ -1,4 +1,4 @@
-# ELASTOC SIEM HOMELAB
+# ELASTIC SIEM HOMELAB
 Elastic SIEM Home Lab — Threat Simulation & Detection Engineering
 📌 Overview
 
