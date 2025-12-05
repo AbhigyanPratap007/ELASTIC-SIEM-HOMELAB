@@ -42,7 +42,7 @@ By recreating attacker behavior in a controlled lab, the project demonstrates **
 ## 📊 Results
 - Generated **100+ alerts** across reconnaissance, brute force, and privilege escalation scenarios.  
 - Successfully detected **port scans, suspicious processes, and brute-force logins** from attacker machine.  
-- Reduced **false positives** by tuning rules (whitelisting expected admin activity).  
+- Reduced **false positives** by tuning rules.  
 - Configured **email notifications** — rules delivered alerts directly to analyst inbox, proving real SOC workflow.  
 - Visualized events in **Kibana dashboards**, aiding quick triage.  
 
