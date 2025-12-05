@@ -30,7 +30,7 @@ By recreating attacker behavior in a controlled lab, the project demonstrates **
    - **MITRE ATT&CK:** T1046 — Network Service Scanning  
 
 2. **Suspicious Process Execution**  
-   - Detected processes like `netcat` and `curl` launched from unexpected contexts.  
+   - Detected processes like `nmap`, 'ssh' and `curl` launched from unexpected contexts.  
    - **MITRE ATT&CK:** T1059 — Command and Scripting Interpreter  
 
 3. **Brute-Force Authentication**  
